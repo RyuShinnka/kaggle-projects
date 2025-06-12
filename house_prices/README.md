@@ -19,8 +19,7 @@ This project is based on the Kaggle competition:
 
 ## 🧪 Models Used / 使用モデル
 
-- Linear Regression（線形回帰）  
-- Lasso Regression（Lasso回帰）  
+- RandomForestRegressor 
 - XGBoost
 
 ---
