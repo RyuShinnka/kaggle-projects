@@ -22,6 +22,7 @@ This project is part of the Kaggle beginner competition:
 - Logistic Regression（ロジスティック回帰）  
 - K-Nearest Neighbors（K近傍法）  
 - Decision Tree（決定木）
+- xgboost
 
 ---
 
